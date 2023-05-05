@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madhuri-chitikela/to-do-list-react-app/static/css/main.e6c13ad2.css",
+    "main.js": "/madhuri-chitikela/to-do-list-react-app/static/js/main.5acbe52a.js",
+    "static/js/651.d21d4847.chunk.js": "/madhuri-chitikela/to-do-list-react-app/static/js/651.d21d4847.chunk.js",
+    "index.html": "/madhuri-chitikela/to-do-list-react-app/index.html",
+    "main.e6c13ad2.css.map": "/madhuri-chitikela/to-do-list-react-app/static/css/main.e6c13ad2.css.map",
+    "main.5acbe52a.js.map": "/madhuri-chitikela/to-do-list-react-app/static/js/main.5acbe52a.js.map",
+    "651.d21d4847.chunk.js.map": "/madhuri-chitikela/to-do-list-react-app/static/js/651.d21d4847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5acbe52a.js"
+  ]
+}
