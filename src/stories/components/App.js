@@ -1,12 +1,12 @@
 import React from "react";
-import Task from './Task';
+import List from './List';
 
 export default function App() {
   return (
     <div className="App">
       <h1>TO DO LIST</h1>
       <div>
-        <Task />
+        <List />
       </div>
     </div>
   );
