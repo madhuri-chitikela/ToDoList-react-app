@@ -16,10 +16,10 @@ export default function Task(){
       }
       function handleDelete(id){
         const newtodolist = todolist.filter((task) => {
-          if(task.id === id) {
+          if(task.id === id) { 
             return false; 
           }
-          else {
+          else {    
             return true;
           }      
         })
