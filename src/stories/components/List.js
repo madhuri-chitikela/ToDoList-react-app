@@ -1,6 +1,6 @@
 import {useState} from 'react';
 
-export default function Task(){
+export default function List(){
       const[todolist,setTodolist] = useState([]);
       const[newtask,setNewTask] = useState("");
 
